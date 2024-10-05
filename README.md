@@ -32,6 +32,7 @@ An Employee Management System built using Django for the backend and React for t
 ## Backend Deployed on render
   [https://employee-management-system-backend-7rjr.onrender.com/api](https://employee-management-system-backend-7rjr.onrender.com/api)
 ## Frontend Deployed on Netlify
+  github link[https://github.com/kunal763/frontend-for-employee-management.git](https://github.com/kunal763/frontend-for-employee-management.git)
   [https://employee-management-kunal.netlify.app/](https://employee-management-kunal.netlify.app/)
 
 
