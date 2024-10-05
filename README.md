@@ -36,5 +36,9 @@ An Employee Management System built using Django for the backend and React for t
 
 
 ## Screenshots
+### Home Screen
 ![image.png](assets/1.png)
+### Employee List
 ![image1.png](assets/2.png)
+### Add Employee
+![image2.png](assets/2.png)
