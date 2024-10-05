@@ -41,4 +41,4 @@ An Employee Management System built using Django for the backend and React for t
 ### Employee List
 ![image1.png](assets/2.png)
 ### Add Employee
-![image2.png](assets/2.png)
+![image2.png](assets/3.png)
